@@ -49,7 +49,7 @@
     "@react-aria/interactions": "^3.23.0",
     "@react-aria/utils": "^3.27.0",
     "@remix-run/node": "^2.16.5",
-    "@remix-run/react": "^2.16.5",
+    "@remix-run/react": "^2.17.3",
     "@remix-run/serve": "^2.16.5",
     "@remix-run/server-runtime": "^2.16.5",
     "@trpc/client": "^10.45.2",
