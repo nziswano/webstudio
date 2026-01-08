@@ -13,7 +13,7 @@
   "dependencies": {
     "@react-router/dev": "^7.5.3",
     "@react-router/fs-routes": "^7.5.3",
-    "@react-router/node": "^7.5.3",
+    "@react-router/node": "^7.9.4",
     "@vercel/react-router": "^1.1.0",
     "@webstudio-is/image": "workspace:*",
     "@webstudio-is/react-sdk": "workspace:*",

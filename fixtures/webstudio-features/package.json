@@ -15,7 +15,7 @@
     "@miniflare/html-rewriter": "^2.14.4",
     "@react-router/dev": "^7.5.3",
     "@react-router/fs-routes": "^7.5.3",
-    "@react-router/node": "^7.5.3",
+    "@react-router/node": "^7.9.4",
     "@webstudio-is/image": "workspace:*",
     "@webstudio-is/react-sdk": "workspace:*",
     "@webstudio-is/sdk": "workspace:*",
