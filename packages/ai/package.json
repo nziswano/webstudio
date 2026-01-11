@@ -29,7 +29,7 @@
     "@webstudio-is/jsx-utils": "workspace:*",
     "@webstudio-is/react-sdk": "workspace:*",
     "@webstudio-is/sdk": "workspace:*",
-    "ai": "^2.2.12",
+    "ai": "^5.0.52",
     "escape-string-regexp": "^5.0.0",
     "mdast-util-from-markdown": "^2.0.2",
     "openai": "^4.8.0",
